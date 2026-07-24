@@ -950,8 +950,8 @@ export const problems = [
         "text": "6つ"
       }
     ],
-    "correctChoice": 4,
-    "explanation": "ナトリウム、カリウム、アルキルアルミニウム、硝酸アルミニウム、硝酸塩類の5つ。硝酸アルミニウムは硝酸塩に該当するが、列挙された項目としてそれぞれ数える。",
+    "correctChoice": 3,
+    "explanation": "消防法に定める危険物に該当するのは、ナトリウム（第3類）、カリウム（第3類）、アルキルアルミニウム（第3類）、硝酸塩類（第1類）の4つ。したがって3が正しい。",
     "category": "危険物に関する法令",
     "memoryTip": "",
     "needsReview": false,
