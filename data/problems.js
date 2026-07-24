@@ -1782,12 +1782,12 @@ export const problems = [
         "text": "指定数量の倍数が10以上の危険物を取り扱う場合には、避雷設備を設けること。"
       }
     ],
-    "correctChoice": 3,
-    "explanation": "一般取扱所の屋根は不燃材料とするが、常に『軽量な不燃材料』でふくという一律基準ではない。",
+    "correctChoice": 1,
+    "explanation": "一般取扱所では、小学校から30m以上の保安距離を確保しなければならない。20m以上とする1が誤り。",
     "category": "危険物に関する法令",
     "memoryTip": "",
-    "needsReview": true,
-    "reviewNotes": "一般取扱所には取扱形態別の特例があるため、模擬問題の一般基準として3を採用。",
+    "needsReview": false,
+    "reviewNotes": "",
     "hasFigure": false,
     "figureSource": null
   },
