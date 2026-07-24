@@ -493,6 +493,7 @@ h3 {
   font-size: clamp(18px, 4.8vw, 22px);
   font-weight: 750;
   line-height: 1.62;
+  white-space: pre-line;
 }
 
 .choice-list {
