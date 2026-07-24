@@ -1302,12 +1302,12 @@ export const problems = [
         "text": "給油取扱所の専用タンク……規定なし"
       }
     ],
-    "correctChoice": 1,
-    "explanation": "屋内貯蔵タンクは指定数量の40倍以下が基本で、第4類（第4石油類・動植物油類を除く）は20,000L以下という追加制限がある。単純に『40倍または20,000L』と並列にするのは誤り。",
+    "correctChoice": 3,
+    "explanation": "簡易タンク貯蔵所の簡易貯蔵タンクの容量は600L以下。6,000Lではないため、3が誤り。",
     "category": "危険物に関する法令",
     "memoryTip": "",
-    "needsReview": true,
-    "reviewNotes": "選択肢1の省略表現が曖昧。問題集の想定解答は1と判断。",
+    "needsReview": false,
+    "reviewNotes": "",
     "hasFigure": false,
     "figureSource": null
   },
