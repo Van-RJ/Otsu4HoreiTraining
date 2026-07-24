@@ -1613,7 +1613,7 @@ export const problems = [
         "text": "屋内貯蔵所"
       },
       {
-        "text": "屋内タンク貯蔵所"
+        "text": "屋外タンク貯蔵所"
       },
       {
         "text": "給油取扱所"
@@ -1622,12 +1622,12 @@ export const problems = [
         "text": "一般取扱所"
       }
     ],
-    "correctChoice": 3,
-    "explanation": "屋内タンク貯蔵所は保安距離を必要としない。",
+    "correctChoice": 4,
+    "explanation": "保安距離を必要とするのは、製造所、屋内貯蔵所、屋外タンク貯蔵所、屋外貯蔵所および一般取扱所。給油取扱所は保安距離を必要としないため、4が正しい。",
     "category": "危険物に関する法令",
     "memoryTip": "",
-    "needsReview": true,
-    "reviewNotes": "給油取扱所等の特例と比較して、単一正答として屋内タンク貯蔵所を採用。",
+    "needsReview": false,
+    "reviewNotes": "",
     "hasFigure": false,
     "figureSource": null
   },
